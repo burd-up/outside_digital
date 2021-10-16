@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/outside_digital/static/css/main.7a85c28d.chunk.css",
+    "main.js": "/outside_digital/static/js/main.9517f3a6.chunk.js",
+    "main.js.map": "/outside_digital/static/js/main.9517f3a6.chunk.js.map",
+    "runtime-main.js": "/outside_digital/static/js/runtime-main.87a7c3a4.js",
+    "runtime-main.js.map": "/outside_digital/static/js/runtime-main.87a7c3a4.js.map",
+    "static/js/2.f953ff19.chunk.js": "/outside_digital/static/js/2.f953ff19.chunk.js",
+    "static/js/2.f953ff19.chunk.js.map": "/outside_digital/static/js/2.f953ff19.chunk.js.map",
+    "static/js/3.d3fafcab.chunk.js": "/outside_digital/static/js/3.d3fafcab.chunk.js",
+    "static/js/3.d3fafcab.chunk.js.map": "/outside_digital/static/js/3.d3fafcab.chunk.js.map",
+    "index.html": "/outside_digital/index.html",
+    "static/css/main.7a85c28d.chunk.css.map": "/outside_digital/static/css/main.7a85c28d.chunk.css.map",
+    "static/js/2.f953ff19.chunk.js.LICENSE.txt": "/outside_digital/static/js/2.f953ff19.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/outside_digital/static/media/LabGrotesqueMono.e3564b10.eot",
+    "static/media/Vector.62a8ceae.svg": "/outside_digital/static/media/Vector.62a8ceae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87a7c3a4.js",
+    "static/js/2.f953ff19.chunk.js",
+    "static/css/main.7a85c28d.chunk.css",
+    "static/js/main.9517f3a6.chunk.js"
+  ]
+}
