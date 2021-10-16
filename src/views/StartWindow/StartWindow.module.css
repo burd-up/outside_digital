@@ -1,0 +1,40 @@
+.button {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    height: 56px;
+    width: 198px;
+    border: 1px solid white;
+    border-radius: 6px;
+    background-color: inherit;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    transition: all 0.3s ease 0s;
+}
+
+.button:hover {
+    box-shadow: 0 0 10px 0px rgba(0, 0, 0, 0.2);
+}
+
+.wrapper {
+    background: linear-gradient(255.35deg, #DC3131 0.83%, rgba(255, 79, 79, 0) 108.93%),
+    linear-gradient(0deg, #FF5E56, #FF5E56);
+    height: 100%;
+    width: 100%;
+    transition: all 0.3s ease 0s;
+}
+
+.close{
+    opacity: 0;
+    visibility: hidden;
+}
+
+@media (max-width: 320px) {
+    .button{
+        height: 40px;
+        width: 149px;
+        font-size: 12px;
+    }
+}
